@@ -1,0 +1,6 @@
+*.pyc
+env
+suicide-detector
+Suicide_Detection.csv
+model.pkl
+
