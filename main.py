@@ -85,6 +85,8 @@ model_card.metadata.license = "mit"
 
 model_description = """
 Suicide Detection text classification model.
+
+PYTHON 3.9 ONLY
 """
 
 model_card.add(**{"Model description": model_description})
